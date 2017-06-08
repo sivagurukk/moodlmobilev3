@@ -1,17 +1,3 @@
- .bar-side-menu {
-   background-color: blue;
- }
- 
- .bar-content {
-   background-color: blue;
- }
- 
- .button.button-positive {
-   border-color: blue;
-   background-color: blue;
-    color: #fff;
- } 
- 
- .item-divider {
-   background-color: #fafafa;
+.ion-ionic:before {
+   content: "\f3ea";
  }
