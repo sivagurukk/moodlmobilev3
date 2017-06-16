@@ -1,20 +1,33 @@
-.ion-ionic:before {
-   content: "\f3ea";
+ .bar-side-menu {
+
+   background-color: black;
+
  }
-.bar-side-menu {
-   background-color: blue;
- }
- 
+
  .bar-content {
-   background-color: blue;
+
+   background-color: black;
+
  }
- 
+
  .button.button-positive {
-   border-color: blue;
-   background-color: blue;
+
+   border-color: red;
+
+   background-color: red;
+
     color: #fff;
+
  } 
- 
+
  .item-divider {
+
    background-color: #fafafa;
+
  }
+
+.ion-content.site_mod_quiz-player h3 {
+
+    font-size: 30px;
+
+}
